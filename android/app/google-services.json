@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083247392493",
+    "project_id": "meowtalk-dc6e5",
+    "storage_bucket": "meowtalk-dc6e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083247392493:android:eeb115a54ab8a329717ee4",
+        "android_client_info": {
+          "package_name": "com.example.meowtalk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9VFTLXJg80F6PnAQCd8wCnpytP_zV5n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
