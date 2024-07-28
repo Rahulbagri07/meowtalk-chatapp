@@ -1,6 +1,11 @@
 # meowtalk
 
-A new Flutter project.
+this is a basic chating app whith only chat feature.
+
+![Screenshot](assets/chat_page.jpg)
+![Screenshot](assets/home_page.jpg)
+![Screenshot](assets/login_page.jpg)
+
 
 ## Getting Started
 
